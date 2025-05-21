@@ -1,7 +1,8 @@
 # 👋 Привет! Я Данил Дядюн — Аналитик данных
 
-<img src="give-you-insights-and-optimize-your-site.png" width="100%" alt="Описание картинки">
-
+<div align="center">
+  <img src="give-you-insights-and-optimize-your-site.png" height="10%" width="100%" alt="Описание картинки">
+</div>
 
 ## 🧠 О себе
 
